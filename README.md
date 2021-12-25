@@ -1,1 +1,1 @@
-# gmeet-manager
+# jitsi-manager
